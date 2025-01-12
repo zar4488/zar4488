@@ -1,6 +1,4 @@
-# Hi there, I'm Zar! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=zar4488&color=blue)
+# ZAR 👋
 
 ## About Me
 
